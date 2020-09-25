@@ -1,0 +1,75 @@
+{
+    "plugins": [
+        "code",
+        "github",
+        "-highlight", 
+        "prism", 
+        "prism-themes",
+        "-lunr", 
+        "-search", 
+        "search-pro",
+        "edit-link",
+        "hide-element",
+        "splitter",
+        "insert-logo",
+        "chapter-fold",
+        "custom-favicon",
+        "pageview-count",
+        "tbfed-pagefooter",
+        "back-to-top-button",
+        "-sharing", "sharing-plus"
+    ],
+    "pluginsConfig": {
+        "favicon": "favicon.ico",
+        "github": {
+            "url": "https://github.com/CTFlag/CTFlag-book"
+        },
+        "edit-link": {
+            "base": "//github.com/CTFlag/CTFlag-book/edit/master/docs",
+            "label": "edit"
+        },
+        "hide-element": {
+            "elements": [".gitbook-link"]
+        },
+        "insert-logo": {
+            "url": "https://ishacker.net/2020/06/21/image-repo/leetcode-googtech-logo.PNG",
+            "style": "background: none; max-height: 45px; min-height: 30px"
+        },
+        "tbfed-pagefooter": {
+            "copyright":"Copyright &copy GoogTech 2020",
+            "modify_label": "last updated time : ",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "prism": {
+            "css": [
+              "prismjs/themes/prism-solarizedlight.css"
+            ]
+        },
+        "sharing": {
+            "douban": false,
+            "facebook": false,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qzone": false,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "whatsapp": false,
+            "weibo": false,
+            "qq": false,
+         "all": [
+            "douban", "facebook", "google", "hatenaBookmark", 
+            "instapaper", "linkedin","twitter", "weibo", 
+            "messenger","qq", "qzone","viber","vk","weibo",
+            "pocket", "stumbleupon","whatsapp"
+          ]
+      }
+
+    }
+}
