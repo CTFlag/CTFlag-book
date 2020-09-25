@@ -32,5 +32,5 @@ branches:
     - master
 
 env:
-  global:
-    - GH_REF: github.com/CTFlag/CTFlag-book.git # 设置 github 地址
+  global: 
+    - GH_REF: github.com/YUbuntu0109/CTFlag-book.git # 设置 github 地址
