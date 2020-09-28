@@ -32,7 +32,7 @@
             "elements": [".gitbook-link"]
         },
         "insert-logo": {
-            "url": "https://ctflag.org/logo.jpg",
+            "url": "https://ctflag.org/logo-black.jpg",
             "style": "background: none; max-height: 45px; min-height: 30px"
         },
         "tbfed-pagefooter": {
