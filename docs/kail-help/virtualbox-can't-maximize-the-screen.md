@@ -13,6 +13,7 @@
 
 > sudo bash autorun.sh
 
+
 4. Last step : restart your computer
 
 ![ ](images/virtualbox-can't-maximize-the-screen.md.png)
