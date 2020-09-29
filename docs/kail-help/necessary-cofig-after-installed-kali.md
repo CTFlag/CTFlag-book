@@ -20,7 +20,7 @@ deb http://mirrors.tuna.tsinghua.edu.cn/kali kali-rolling main contrib non-free
 deb-src https://mirrors.tuna.tsinghua.edu.cn/kali kali-rolling main contrib non-free
 ```
 
-## Update Sources
+### Update Sources
 > apt-get update
 
 > apt-get upgrade
