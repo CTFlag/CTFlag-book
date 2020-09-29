@@ -1,1 +1,1 @@
-# Some Problems When You Installing or Using Kali Linux
+# Some Problems When You Installing Or Using Kali Linux
