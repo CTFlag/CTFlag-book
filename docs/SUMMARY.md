@@ -7,6 +7,7 @@
 
 * [kali help](kail-help/README.md)
     * [VirtualBox can't start](kail-help/virtualbox-can't-start.md)
+    * [How to install kali linux](kail-help/how-to-install-kali-linux.md)
     * [VirtualBox can't maximize the screen](kail-help/virtualbox-can't-maximize-the-screen.md)
     * [necessary configuration after installed kali linux](kail-help/necessary-cofig-after-installed-kali.md)
 
