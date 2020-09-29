@@ -2,6 +2,7 @@
 
 ## Sources List
 > leafpad /etc/apt/sources.list
+
 ```
 # kali source
 deb http://http.kali.org/ kali-rolling main non-free contrib
