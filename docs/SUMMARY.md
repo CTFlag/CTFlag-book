@@ -14,3 +14,9 @@
 * [kali theme](kali-theme/README.md)
     * [how to install theme](kali-theme/how-to-install-theme-on-kali-linux.md)
     * [favourite background image](kali-theme/favourite-background-image.md)
+
+* [info collection](info-collection/README.md)
+    * [DNS info collection](info-collection/dns-info-collection.md)
+    * [subdomain info collection](info-collection/subdomain-info-collection.md)
+    * [info collection tool](info-collection/info-collection-tool.md)
+    * [info collection by google chrome](info-collection/info-collection-by-google-chrome.md)
