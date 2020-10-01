@@ -21,5 +21,5 @@
     * [info collection tool](info-collection/info-collection-tool.md)
     * [info collection by google chrome](info-collection/info-collection-by-google-chrome.md)
 
-* [Dos / DDos Attack](dos-or-ddos-attack/README.md)
+* [dos / ddos attack](dos-or-ddos-attack/README.md)
     * [dos attack](dos-or-ddos-attack/dos-attack.md)
