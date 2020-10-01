@@ -21,5 +21,20 @@
     * [info collection tool](info-collection/info-collection-tool.md)
     * [info collection by google chrome](info-collection/info-collection-by-google-chrome.md)
 
+* [host info collection](host-info-collection/README.md)
+    * [actively collect info](host-info-collection/actively-collect-Info-in-kali.md)
+
 * [dos / ddos attack](dos-or-ddos-attack/README.md)
     * [dos attack](dos-or-ddos-attack/dos-attack.md)
+
+* [nmap docs](nmap-docs/README.md)
+
+* [wireshark docs](wireshark-docs/README.md)
+
+* [metasploit docs](metasploit-docs/README.md)
+
+* [tutorial](tutorial/README.md)
+    * [tutorial in chinese](tutorial/tutorial-in-chinese/README.md)
+        * [bilibili](tutorial/tutorial-in-chinese/bilibili.com.md)
+    * [tutorial in english](tutorial/tutorial-in-english/README.md)
+        * [youtube](tutorial/tutorial-in-english/youtube.com.md)
