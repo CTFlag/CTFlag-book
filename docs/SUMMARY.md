@@ -28,10 +28,13 @@
     * [dos attack](dos-or-ddos-attack/dos-attack.md)
 
 * [nmap docs](nmap-docs/README.md)
+    * [updating](nmap-docs/updating.md)
 
 * [wireshark docs](wireshark-docs/README.md)
+    * [updating](wireshark-docs/updating.md)
 
 * [metasploit docs](metasploit-docs/README.md)
+    * [updating](metasploit-docs/updating.md)
 
 * [tutorial](tutorial/README.md)
     * [tutorial in chinese](tutorial/tutorial-in-chinese/README.md)
