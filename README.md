@@ -1,2 +1,2 @@
 # CTFlag-book
-📝 The learning note about CTFlag : *https://book.ctflag.org*
+📝 The learning note about CTFlag : *https://ctflag.org*
