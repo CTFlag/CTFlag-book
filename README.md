@@ -1,5 +1,3 @@
-## THE QUIETER YOU ARE THE MORE YOU ARE ABLE TO HEAR
-
 <p align="center">
 	<a href="https://github.com/CTFlag/CTFlag-book"><img src="https://ctflag.org/readme-logo.png"></a>
 </p>
