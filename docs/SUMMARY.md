@@ -5,6 +5,13 @@
     * [what is CTF](for-beginner/what-is-ctf.md)
     * [how to learn it](for-beginner/how-to-learn-it.md)
 
+* [install os](install-os/README.md)
+    * [how to install kali](install-os/how-to-install-kali.md)
+    * [how to install metasploitable2](install-os/how-to-install-metasploitable2.md)
+    * [how to install windows xp](install-os/how-to-install-windowsxp.md)
+    * [how to install windows 7](install-os/how-to-install-windows7.md)
+    * [how to install windows 10](install-os/how-to-install-windows10.md)
+
 * [kali help](kail-help/README.md)
     * [VirtualBox can't start](kail-help/virtualbox-can't-start.md)
     * [How to install kali linux](kail-help/how-to-install-kali-linux.md)
