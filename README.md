@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://github.com/CTFlag/CTFlag-book"><img src="https://ctflag.org/readme-logo.png"></a>
+	<a href="https://book.ctflag.org"><img src="https://book.ctflag.org/readme-logo.png"></a>
 </p>
 
 <p align="center">
