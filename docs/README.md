@@ -3,7 +3,7 @@
 </p>
 
 <p style="text-align:center;font-size:25px;">
-    THE QUIETER YOU ARE THE MORE YOU ARE ABLE TO HEAR
+	The Learning Note About CTF And Hacking
 </p>
 
 <p align="center">
